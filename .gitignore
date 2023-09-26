@@ -1,0 +1,5 @@
+# Arquivos objeto C
+*.o
+
+# Executáveis
+main
