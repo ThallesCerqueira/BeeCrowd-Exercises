@@ -27,6 +27,7 @@ bin/
 *.exe
 *.bin
 *.o
+!**/src/src/
 
 ### Mac OS ###
 .DS_Store
